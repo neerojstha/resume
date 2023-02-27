@@ -118,7 +118,7 @@ header {
 }
 
 .logo {
-    background: url("../images/priyanka.jpg");
+    background: url("../images/rosie.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -390,11 +390,6 @@ button[type="submit"] {
 div#map {
     min-height: 360px;
 }
-
-#map {
-    height: 400px; /* The height is 400 pixels */
-    width: 100%; /* The width is the width of the web page */
-  }
 
 /*--------------------------------------------Media Queries*/
 
